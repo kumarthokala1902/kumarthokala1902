@@ -33,12 +33,28 @@ I am a **Cloud & DevOps Engineer** focused on building resilient, scalable, and 
 
 ---
 
-### 📊 GitHub Metrics & Insights
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumarthokala1902&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Kumar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarthokala1902&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
-</p>
+### 📊 System Telemetry & Metrics
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=kumarthokala1902&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" width="100%" alt="Kumar's GitHub Stats" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarthokala1902&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top" width="100%">
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarthokala1902&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" width="100%" alt="Kumar's Contribution Streak" />
+    </td>
+  </tr>
+</table>
+
+---
 
 ---
 
