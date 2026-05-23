@@ -1,4 +1,4 @@
-# Hi there, I'm Kumar Thokala 👋
+# Hi there, I'm Thokala Kumar Reddy 👋
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kumarreddythokala/" target="_blank">
