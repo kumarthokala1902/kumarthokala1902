@@ -4,10 +4,9 @@
 
 **Cloud Infrastructure &nbsp;•&nbsp; Platform Engineering &nbsp;•&nbsp; Site Reliability**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=0a0a0a&label=PROFILE+VIEWS)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.dev)
+[![Profile Views](https://komarev.com/ghpvc/?username=kumarthokala1902&style=flat-square&color=0a0a0a&label=PROFILE+VIEWS)](https://github.com/kumarthokala1902)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumarreddythokala/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kumarreddythokala13@gmail.com)
 
 </div>
 
@@ -15,9 +14,9 @@
 
 ## Introduction
 
-I am an entry-level engineer working at Amazon, currently building toward a career in Cloud / DevOps / Platform Engineering. I do not have prior professional experience in infrastructure roles — my foundation is being built through self-directed, hands-on projects designed to mirror how production systems are actually run.
+I am an entry-level engineer working at Amazon, currently building toward a career in Cloud / DevOps / Platform Engineering. I do not have prior professional experience in infrastructure roles — my focus is on learning and applying production-grade practices.
 
-My focus areas are cloud infrastructure, deployment automation, and observability. Every project in this profile is built with production practices in mind: version-controlled, reproducible, monitored, and documented — the same standards I intend to bring into a DevOps role from day one.
+My focus areas are cloud infrastructure, deployment automation, and observability. Every project in this profile is built with production practices in mind: version-controlled, reproducible, and monitored.
 
 <br>
 
@@ -114,8 +113,7 @@ My focus areas are cloud infrastructure, deployment automation, and observabilit
 
 **Observability**
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
 
 **Languages & Runtime**
 
@@ -141,7 +139,7 @@ Multi-AZ architecture provisioned entirely through Infrastructure as Code, with 
 
 `Terraform` `AWS` `High Availability` `IaC`
 
-[View Repository →](https://github.com/YOUR_USERNAME/REPO_NAME)
+[View Repository →](https://github.com/kumarthokala1902)
 
 </td>
 <td width="50%" valign="top">
@@ -153,7 +151,7 @@ CI/CD pipeline that builds, tests, and deploys containerized services to EKS on 
 
 `Kubernetes` `CI/CD` `GitOps` `EKS`
 
-[View Repository →](https://github.com/YOUR_USERNAME/REPO_NAME)
+[View Repository →](https://github.com/kumarthokala1902)
 
 </td>
 </tr>
@@ -161,13 +159,13 @@ CI/CD pipeline that builds, tests, and deploys containerized services to EKS on 
 <td width="50%" valign="top">
 
 ### Infrastructure Monitoring Stack
-**Stack:** Prometheus · Grafana · CloudWatch · Alertmanager
+**Stack:** CloudWatch · Alerting
 
 Centralized metrics pipeline with service-level dashboards and threshold-based alerting, built to surface degradation before it becomes an incident.
 
 `Observability` `Monitoring` `Alerting`
 
-[View Repository →](https://github.com/YOUR_USERNAME/REPO_NAME)
+[View Repository →](https://github.com/kumarthokala1902)
 
 </td>
 <td width="50%" valign="top">
@@ -179,75 +177,11 @@ Event-driven automation for operational tasks — scheduled maintenance, log rot
 
 `Serverless` `Automation` `Python`
 
-[View Repository →](https://github.com/YOUR_USERNAME/REPO_NAME)
+[View Repository →](https://github.com/kumarthokala1902)
 
 </td>
 </tr>
 </table>
-
-<br>
-
-## GitHub Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="49%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="98%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" width="98%" />
-
-</div>
-
-<br>
-
-## Certifications
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**In Progress**
-
-AWS Certified Solutions Architect – Associate
-
-</td>
-<td align="center" width="25%">
-
-**Planned**
-
-Certified Kubernetes Administrator (CKA)
-
-</td>
-<td align="center" width="25%">
-
-**Planned**
-
-HashiCorp Certified: Terraform Associate
-
-</td>
-<td align="center" width="25%">
-
-**Planned**
-
-AWS Certified DevOps Engineer – Professional
-
-</td>
-</tr>
-</table>
-
-> Certifications listed reflect actual progress and planned study targets — not completed credentials unless stated otherwise.
 
 <br>
 
@@ -263,7 +197,7 @@ AWS Certified DevOps Engineer – Professional
 
 ## Currently Building
 
-A CI/CD pipeline that deploys a containerized service to Amazon EKS, provisions its supporting infrastructure through Terraform, and exposes cluster and application health through a Prometheus and Grafana monitoring stack — built end-to-end as a single reproducible workflow rather than disconnected scripts.
+A CI/CD pipeline that deploys a containerized service to Amazon EKS, provisions its supporting infrastructure through Terraform, and exposes cluster and application health through CloudWatch.
 
 <br>
 
@@ -271,9 +205,9 @@ A CI/CD pipeline that deploys a containerized service to Amazon EKS, provisions 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumarreddythokala/)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarreddythokala13@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumarthokala1902)
 
 </div>
 
