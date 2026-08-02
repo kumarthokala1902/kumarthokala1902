@@ -14,9 +14,9 @@
 
 ## Introduction
 
-I am an entry-level engineer working at Amazon, currently building toward a career in Cloud / DevOps / Platform Engineering. I do not have prior professional experience in infrastructure roles — my focus is on learning and applying production-grade practices.
+I am an entry-level engineer working at Amazon, currently building toward a career in Cloud / DevOps / Platform Engineering. I do not have prior professional experience in infrastructure roles —[...]
 
-My focus areas are cloud infrastructure, deployment automation, and observability. Every project in this profile is built with production practices in mind: version-controlled, reproducible, and monitored.
+My focus areas are cloud infrastructure, deployment automation, and observability. Every project in this profile is built with production practices in mind: version-controlled, reproducible, and m[...]
 
 <br>
 
@@ -123,65 +123,6 @@ My focus areas are cloud infrastructure, deployment automation, and observabilit
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 </div>
-
-<br>
-
-## Production Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Highly Available Web Infrastructure on AWS
-**Stack:** Terraform · EC2 · ALB · Auto Scaling · VPC
-
-Multi-AZ architecture provisioned entirely through Infrastructure as Code, with load-balanced traffic distribution, health-check-driven auto scaling, and network segmentation across public and private subnets.
-
-`Terraform` `AWS` `High Availability` `IaC`
-
-[View Repository →](https://github.com/kumarthokala1902)
-
-</td>
-<td width="50%" valign="top">
-
-### Kubernetes Deployment Pipeline
-**Stack:** EKS · Docker · GitHub Actions · Helm
-
-CI/CD pipeline that builds, tests, and deploys containerized services to EKS on every merge, with rollback triggers on failed health checks and environment-scoped configuration.
-
-`Kubernetes` `CI/CD` `GitOps` `EKS`
-
-[View Repository →](https://github.com/kumarthokala1902)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Infrastructure Monitoring Stack
-**Stack:** CloudWatch · Alerting
-
-Centralized metrics pipeline with service-level dashboards and threshold-based alerting, built to surface degradation before it becomes an incident.
-
-`Observability` `Monitoring` `Alerting`
-
-[View Repository →](https://github.com/kumarthokala1902)
-
-</td>
-<td width="50%" valign="top">
-
-### Serverless Automation Framework
-**Stack:** AWS Lambda · Python · EventBridge · S3
-
-Event-driven automation for operational tasks — scheduled maintenance, log rotation, and cost-anomaly reporting — running without persistent compute.
-
-`Serverless` `Automation` `Python`
-
-[View Repository →](https://github.com/kumarthokala1902)
-
-</td>
-</tr>
-</table>
 
 <br>
 
