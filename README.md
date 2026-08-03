@@ -4,7 +4,7 @@
 
 **Cloud Infrastructure &nbsp;•&nbsp; Platform Engineering &nbsp;•&nbsp; Site Reliability**
 
-[![Leetcode](https://leetcode.com/u/Kumar_reddy1902/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FF7A00?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Kumar_reddy1902/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumarreddythokala/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kumarreddythokala13@gmail.com)
 
@@ -14,9 +14,8 @@
 
 ## Introduction
 
-I am an entry-level engineer working at Amazon, currently building toward a career in Cloud / DevOps / Platform Engineering. I do not have prior professional experience in infrastructure roles —[...]
-
-My focus areas are cloud infrastructure, deployment automation, and observability. Every project in this profile is built with production practices in mind: version-controlled, reproducible, and m[...]
+- Junior DevOps Engineer with hands-on experience in CI/CD , container orchestration(Docker & Kubernetes),
+AWS cloud infrastructure and Infrastructure as Code (Terraform). Proven ability to automate deployment workflows, enforce IAM security policies, and optimize cloud resource costs. Complementary background in Python scripting and backend development with Flask. Seeking a DevOps or Cloud Engineer roles to build and scale reliable, automated infrastructures.
 
 <br>
 
@@ -24,20 +23,11 @@ My focus areas are cloud infrastructure, deployment automation, and observabilit
 
 <div align="center">
 
+![Amazon](https://img.shields.io/badge/Amazon-232F3E?style=for-the-badge&logo=amazon&logoColor=FF9900)
+
 **ML Data Associate @ Amazon**
 
 </div>
-
-<br>
-
-## Engineering Philosophy
-
-- **Production-first, not proof-of-concept.** Every project is built to run continuously, not to be demoed once.
-- **Automate the reproducible, document the irreducible.** If a process is repeated more than twice, it belongs in a pipeline, not in a runbook.
-- **Design for failure, not around it.** Systems should degrade predictably and recover automatically before they require a human.
-- **Observability is not optional.** If a system cannot be measured, it cannot be operated. Metrics, logs, and traces are part of the design, not an afterthought.
-- **Infrastructure is code, and code is reviewed.** Manual changes to production infrastructure are treated as incidents waiting to happen.
-- **Security is a default, not a phase.** Least privilege, secrets management, and network segmentation are considered at design time.
 
 <br>
 
@@ -136,9 +126,11 @@ My focus areas are cloud infrastructure, deployment automation, and observabilit
 
 <br>
 
-## Currently Building
+## Projects
 
-A CI/CD pipeline that deploys a containerized service to Amazon EKS, provisions its supporting infrastructure through Terraform, and exposes cluster and application health through CloudWatch.
+- [skillsyncAI](https://github.com/kumarthokala1902/skillsyncAI)
+- [pawPerfect](https://github.com/kumarthokala1902/pawPerfect)
+- [web-chat-bot](https://github.com/kumarthokala1902/web-chat-bot)
 
 <br>
 
@@ -146,7 +138,7 @@ A CI/CD pipeline that deploys a containerized service to Amazon EKS, provisions 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumarreddythokala/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumarthokala1902/)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarreddythokala13@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumarthokala1902)
 
@@ -163,3 +155,14 @@ A CI/CD pipeline that deploys a containerized service to Amazon EKS, provisions 
 <sub>Last updated: automated via profile CI</sub>
 
 </div>
+
+<br>
+
+## Engineering Philosophy
+
+- **Production-first, not proof-of-concept.** Every project is built to run continuously, not to be demoed once.
+- **Automate the reproducible, document the irreducible.** If a process is repeated more than twice, it belongs in a pipeline, not in a runbook.
+- **Design for failure, not around it.** Systems should degrade predictably and recover automatically before they require a human.
+- **Observability is not optional.** If a system cannot be measured, it cannot be operated. Metrics, logs, and traces are part of the design, not an afterthought.
+- **Infrastructure is code, and code is reviewed.** Manual changes to production infrastructure are treated as incidents waiting to happen.
+- **Security is a default, not a phase.** Least privilege, secrets management, and network segmentation are considered at design time.
