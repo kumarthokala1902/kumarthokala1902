@@ -4,7 +4,7 @@
 
 **Cloud Infrastructure &nbsp;•&nbsp; Platform Engineering &nbsp;•&nbsp; Site Reliability**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=kumarthokala1902&style=flat-square&color=0a0a0a&label=PROFILE+VIEWS)](https://github.com/kumarthokala1902)
+[![Leetcode](https://leetcode.com/u/Kumar_reddy1902/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumarreddythokala/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kumarreddythokala13@gmail.com)
 
